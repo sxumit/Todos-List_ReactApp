@@ -3,7 +3,7 @@ import React from 'react'
 const Todo = () => {
   return (
     <div>
-      Todo works fneud cn edn  d  !
+      Todo works fn edn  d  !
     </div>
   )
 }
