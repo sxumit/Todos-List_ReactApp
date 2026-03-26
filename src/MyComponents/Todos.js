@@ -3,7 +3,7 @@ import React from 'react'
 const Todos = () => {
   return (
     <div>
-      Todos is wofrrk !
+      Todos is wrk !
     </div>
   )
 }
